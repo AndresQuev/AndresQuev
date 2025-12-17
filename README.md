@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Andrés
 
-<!--
-**AndresQuev/AndresQuev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS Developer fueled by coffee ☕
 
-Here are some ideas to get you started:
+🔗 [My GitHub Portfolio](https://github.com/andresquev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+- 📱 iOS Developer focused on Swift & SwiftUI
+- 🧠 Big fan of clean architecture (MVVM)
+- 🚀 Building real-world iOS apps and growing my portfolio
+
+---
+
+## Skills
+- 🎨 SwiftUI
+- 🧱 UIKit
+- 🔄 Combine
+- 💾 Core Data
+- 🔥 Firebase
+- 🌐 REST APIs
+- 🧩 MVVM
