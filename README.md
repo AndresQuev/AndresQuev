@@ -1,26 +1,34 @@
-👋 Hi, I'm Andrés
+# 👋 Hi, I'm Andrés
 
-iOS Developer fueled by coffee ☕
-
-🔗 [My GitHub Portfolio](https://github.com/andresquev)
+iOS Developer building clean, scalable mobile apps 📱  
+Fueled by coffee ☕
 
 ---
 
-## About
+## 💡 About Me
 - 📱 iOS Developer focused on Swift & SwiftUI
-- 🧠 Big fan of clean architecture (MVVM)
-- 🚀 Building real-world iOS apps and growing my portfolio
+- 💻 I use MVVM, Combine & REST APIs
+- 🚀 Building apps with performance & user experience in mind
 
 ---
 
-## Skills
-- 🎨 SwiftUI
-- 🧱 UIKit
-- 🔄 Combine
-- 💾 Core Data
-- 🔥 Firebase
-- 🌐 REST APIs
-- 🧩 MVVM
+## 🛠 Skills
+- 🔹 Swift & SwiftUI
+- 🔹 UIKit
+- 🔹 Combine
+- 🔹 Core Data
+- 🔹 Firebase
+- 🔹 REST APIs
+- 🔹 MVVM
 
-Contact me!
-andresquev4@gmail.com
+---
+
+## 📌 Featured Projects
+Check out my pinned repos 👇
+
+---
+
+## 📫 Contact
+📧 andresquev4@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/andrés-quevedo-copat-21a6491a1)
+
