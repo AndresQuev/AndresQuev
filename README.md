@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Andrés
 
-iOS Developer building clean, scalable mobile apps 📱  
-Fueled by coffee ☕
+iOS Developer building clean, scalable mobile apps 📱
 
 ---
 
