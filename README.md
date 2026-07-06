@@ -4,7 +4,6 @@
 
 🎓 Software Development student from Argentina.
 
-Passionate about backend development and always learning new technologies.
 ---
 ## 🛠 Tech Stack
 
