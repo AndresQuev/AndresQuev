@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Andrés
 
 ☕ Backend Developer focused on Java, Spring Boot and REST APIs.
+
 🎓 Software Development student from Argentina.
+
 Passionate about backend development and always learning new technologies.
 ---
 ## 🛠 Tech Stack
