@@ -1,25 +1,39 @@
 # 👋 Hi, I'm Andrés
 
-Java Backend Developer passionate about building scalable and maintainable REST APIs with Spring Boot.
-
-Currently studying Software Development while expanding my backend skills through personal projects.
+☕ Backend Developer focused on Java, Spring Boot and REST APIs.
+🎓 Software Development student from Argentina.
+Passionate about backend development and always learning new technologies.
 ---
-## 🛠 Skills
+## 🛠 Tech Stack
+
+### Backend
 - Java
 - Spring Boot
 - Spring Security
+- REST APIs
+
+### Database
 - PostgreSQL
 - JPA / Hibernate
-- Docker
-- Maven
-- Git & GitHub
+
+### Testing
 - JUnit 5
 - Mockito
+
+### Tools
+- Docker
+- Git
+- GitHub
+- Maven
 - Swagger / OpenAPI
 ---
-## 📌 Featured Projects
-Check out my pinned repos 👇
----
+## 📚 Currently Learning
+
+- Microservices
+- AWS
+- CI/CD
+## 🚀 Featured Projects
+Here are some of the projects I'm currently working on.
 ## 📫 Contact
 📧 andresquev4@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/andrés-quevedo-copat-21a6491a1)
