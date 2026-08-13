@@ -1,41 +1,23 @@
-# 👋 Hi, I'm Andrés
+## Hey, I'm Andrés 👋
 
-☕ Backend Developer focused on Java, Spring Boot and REST APIs.
+iOS Developer specialized in Swift and SwiftUI.
+Studying Computer Science and building apps in my spare time.
 
-🎓 Software Development student from Argentina.
+**Main stack**
+- Swift · SwiftUI · UIKit
+- Firebase · CoreData · REST APIs
+- Xcode · Git
+
+**Active projects**
+- 🔵 FinanceKit — personal finance app with Swift Charts and WidgetKit
+- 🟢 PulseTrack — fitness tracker with HealthKit (in progress)
+- 🟣 WayPoint — travel organizer with MapKit (coming soon)
 
 ---
-## 🛠 Tech Stack
+# ES
+Desarrollador iOS especializado en Swift y SwiftUI.
+Estudiante de Licenciatura en Informática, construyendo apps en mi tiempo libre.
 
-### Backend
-- Java
-- Spring Boot
-- Spring Security
-- REST APIs
-
-### Database
-- PostgreSQL
-- JPA / Hibernate
-
-### Testing
-- JUnit 5
-- Mockito
-
-### Tools
-- Docker
-- Git
-- GitHub
-- Maven
-- Swagger / OpenAPI
----
-## 📚 Currently Learning
-
-- Microservices
-- AWS
-- CI/CD
-## 🚀 Featured Projects
-Here are some of the projects I'm currently working on.
-## 📫 Contact
-📧 andresquev4@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/andrés-quevedo-copat-21a6491a1)
+📫 andresquev4@gmail.com  
+🌐 https://andres-quevedo-portfolio.vercel.app/
 
